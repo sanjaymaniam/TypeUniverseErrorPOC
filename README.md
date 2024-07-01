@@ -1,6 +1,6 @@
 # TypeUniverseErrorPOC
 
-This is a small reproducible example made for this Stack Overflow question: [TypeUniverse Cannot Resolve Assembly Exception (in UWP app with transitive references)](https://stackoverflow.com/questions/78690569/typeuniverse-cannot-resolve-assembly-exception-in-uwp-app-with-transitive-refer?noredirect=1#comment138738359_78690569).
+This is a small reproducible example for this Stack Overflow question: [TypeUniverse Cannot Resolve Assembly Exception (in UWP app with transitive references)](https://stackoverflow.com/questions/78690569/typeuniverse-cannot-resolve-assembly-exception-in-uwp-app-with-transitive-refer?noredirect=1#comment138738359_78690569).
 
 I have a UWP app, App1, and two .NET Standard libraries, ClassLibrary1 and ClassLibrary2.
 
